@@ -7,8 +7,8 @@
     "Mugunth Kumar": "mugunth@steinlogic.com"
   },
   "source": {
-    "git": "https://github.com/MugunthKumar/MKNetworkKit.git",
-    "tag": "HEAD"
+    "git": "https://github.com/oneEyedOdin/MKNetworkKit.git",
+    "tag": "0.88"
   },
   "source_files": [
     "MKNetworkKit/*.{h,m}",
