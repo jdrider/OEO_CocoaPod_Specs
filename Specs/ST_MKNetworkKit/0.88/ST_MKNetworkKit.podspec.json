@@ -1,5 +1,5 @@
 {
-  "name": “ST_MKNetworkKit",
+  "name": "ST_MKNetworkKit",
   "version": "0.88",
   "summary": "ARC ready Networking Framework with built in authentication and HTTP 1.1 caching standards support for iOS 5+ devices.",
   "homepage": "https://github.com/MugunthKumar/MKNetworkKit",
